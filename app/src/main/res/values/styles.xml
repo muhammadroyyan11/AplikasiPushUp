@@ -1,0 +1,58 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="style_welcome">
+        <item name="android:fontFamily">@font/dm_sans_regular</item>
+        <item name="android:textColor">@color/txtWhite</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="style_username">
+        <item name="android:fontFamily">@font/dm_sans_bold</item>
+        <item name="android:textColor">@color/txtWhite</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="style_bagaimana">
+        <item name="android:fontFamily">@font/dm_sans_regular</item>
+        <item name="android:textColor">@color/txtWhite</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="style_desc_card">
+        <item name="android:fontFamily">@font/dm_sans_regular</item>
+        <item name="android:textColor">@color/txtWhite</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="style_tittle_card">
+        <item name="android:fontFamily">@font/dm_sans_bold</item>
+        <item name="android:textColor">@color/txtWhite</item>
+        <item name="android:textSize">21sp</item>
+    </style>
+
+    <style name="style_item_history">
+        <item name="android:fontFamily">@font/dm_sans_regular</item>
+        <item name="android:textColor">@color/txtWhite</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="style_txt_pushup_desc">
+        <item name="android:fontFamily">@font/dm_sans_bold</item>
+        <item name="android:textColor">@color/txtBlue</item>
+        <item name="android:textSize">21sp</item>
+    </style>
+
+    <style name="style_pushup_count">
+        <item name="android:fontFamily">@font/dm_sans_regular</item>
+        <item name="android:textSize">100sp</item>
+        <item name="android:textColor">@color/txtWhite</item>
+    </style>
+
+</resources>

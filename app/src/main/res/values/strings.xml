@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplikasi Push Up</string>
+    <string name="txt_welcome">Selamat Datang</string>
+    <string name="txt_username">Muhammad Royyan</string>
+    <string name="txt_bagaimana">Berapa banyak kamu ingin push up hari ini ?</string>
+    <string name="txt_pushup_desc">X PUSH UP</string>
+    <string name="txt_pushup_count">10</string>
+</resources>
